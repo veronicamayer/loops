@@ -1,0 +1,21 @@
+@use "mixins.scss";
+@use "variables.scss";
+
+/* General styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    margin-bottom: 5vh;
+}
+
+h3 {
+    margin-bottom: 1vh;
+}
+
+#print {
+    margin-bottom: 5vh;
+}
